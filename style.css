@@ -382,6 +382,14 @@ a{
       width: 200px;
       height: 100px;
   }
+  #eg1{
+    border: 3px solid rgb(92, 92, 186);
+    position: relative;
+    left: 0px;
+    bottom: 5px;
+    border-radius: 6px;
+    
+  }
   @media screen and (max-width:500px) {
     .navbar{
       display: flexbox;
